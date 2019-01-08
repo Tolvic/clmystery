@@ -1,6 +1,9 @@
 The Command Line Murder
 ========================
 
+A challenge set and completed during the Makers precourse to test our command line mastery. These are the WIP files for solving the command line murder mystery. The original, unedited files can be found on the [Maker's Accademy master branch](https://github.com/makersacademy/clmystery).
+
+
     .OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
     OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
     OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
